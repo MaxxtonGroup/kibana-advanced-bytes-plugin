@@ -1,6 +1,6 @@
 {
   "name": "advanced_bytes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extension of the original bytes field format.",
   "main": "index.js",
   "kibana": {
